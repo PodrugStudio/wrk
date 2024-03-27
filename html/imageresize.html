@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <body>
+    <div class="c-test">
+      <canvas id="canvas0"></canvas>
+      <canvas id="canvas1"></canvas>
+      <canvas id="canvas2"></canvas>
+    </div>
+    <hr>
+    <div>
+      <!-- <img id="source" src="images/rhino.jpg" > -->
+      <img id="source" src="images/test.png"/>
+    </div>
+  </body>
+  <script>
+    // const canvas = document.getElementById("canvas");
+    // const ctx = canvas.getContext("2d");
+
+    function draw() {
+      const source = document.getElementById("source");
+      const size = source.naturalWidth / 5;
+      // Draw slice
+      // ctx.drawImage( document.getElementById("source"), 0, 0, 50, 50, 0, 0, 50, 50);
+
+      for (i=0; i < 3; i++){
+        const newCanvas = document.getElementById("canvas"+(i+1));
+        console.log(newCanvas)
+        document.getElementById(`canvas${i}`).getContext("2d").drawImage( document.getElementById("source"), size*i, 0, size, size, 0, 0, 300, 300)
+      }
+    }
+    window.onload = () => { draw(); }
+  </script>
+  <style>
+    canvas {
+      width: 300px;
+    }
+    .c-test {
+      display: flex;
+    }
+  </style>
+</html>
