@@ -1,0 +1,9 @@
+User                 Real name            Mail FTP        DBs  Quota          
+-------------------- -------------------- ---- ---------- ---- ---------------
+mail                 Anemos d.o.o.        Yes  Yes        No   1024 MB        
+bojan.vojnovic       Anemos d.o.o.        Yes  Yes        No   1024 MB        
+niksa.siric          Anemos d.o.o.        Yes  Yes        No   1024 MB        
+vladimir.kovacik     Anemos d.o.o.        Yes  Yes        No   1024 MB        
+jurica.jurisic       Jurica Juriši&#263;  Yes  No         No   500 MB         
+
+Exit status: 0

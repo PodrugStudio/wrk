@@ -1,0 +1,9 @@
+User                 Real name            Mail FTP        DBs  Quota          
+-------------------- -------------------- ---- ---------- ---- ---------------
+danijel.bolic                             Yes  No         No   4 GB           
+matija.prajo                              Yes  No         No   2 GB           
+info                                      Yes  No         No   1024 MB        
+dev                  Developer Beep       No   Yes        1    10 GB          
+baby                 baby                 Yes  No         No   1024 MB        
+
+Exit status: 0

@@ -1,0 +1,20 @@
+{"date": "20210613_104659", "usersAdded": 3, "usersExists": 0, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210613_104841", "usersAdded": 0, "usersExists": 0, "usersRemoved": 3, "errors": 0, "error": []},
+{"date": "20210613_105700", "usersAdded": 3, "usersExists": 0, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210613_105721", "usersAdded": 0, "usersExists": 0, "usersRemoved": 3, "errors": 0, "error": []},
+{"date": "20210613_213654", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210613_213937", "usersAdded": 0, "usersExists": 0, "usersRemoved": 0, "errors": 3, "error": ["No user named ante.antic was found in the server placa.studenac.hr\n\nDeletes an existing mail, FTP or database user from a Virtualmin domain.\n\nvirtualmin delete-user --domain domain.name\n                       --user username\n\nExit status: 256\n", "No user named ante.antic2 was found in the server placa.studenac.hr\n\nDeletes an existing mail, FTP or database user from a Virtualmin domain.\n\nvirtualmin delete-user --domain domain.name\n                       --user username\n\nExit status: 256\n", "No user named frane.franic was found in the server placa.studenac.hr\n\nDeletes an existing mail, FTP or database user from a Virtualmin domain.\n\nvirtualmin delete-user --domain domain.name\n                       --user username\n\nExit status: 256\n"]},
+{"date": "20210614_075211", "usersAdded": 3, "usersExists": 0, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210614_080001", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210615_080001", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210615_102834", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210615_190257", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210615_191229", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210615_191256", "usersAdded": 0, "usersExists": 3, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210615_191830", "usersAdded": 0, "usersExists": 0, "usersRemoved": 0, "errors": 3, "error": ["No user named ante.antic was found in the server placa.studenac.hr\n\nDeletes an existing mail, FTP or database user from a Virtualmin domain.\n\nvirtualmin delete-user --domain domain.name\n                       --user username\n\nExit status: 256\n", "No user named ante.antic2 was found in the server placa.studenac.hr\n\nDeletes an existing mail, FTP or database user from a Virtualmin domain.\n\nvirtualmin delete-user --domain domain.name\n                       --user username\n\nExit status: 256\n", "No user named frane.franic was found in the server placa.studenac.hr\n\nDeletes an existing mail, FTP or database user from a Virtualmin domain.\n\nvirtualmin delete-user --domain domain.name\n                       --user username\n\nExit status: 256\n"]},
+{"date": "20210615_191850", "usersAdded": 3, "usersExists": 0, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210616_070001", "usersAdded": 3, "usersExists": 0, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210617_123342", "usersAdded": 3424, "usersExists": 35, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210618_070002", "usersAdded": 81, "usersExists": 3378, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210619_070001", "usersAdded": 81, "usersExists": 3378, "usersDelete": 0, "errors": 0, "error": []}
+{"date": "20210620_070002", "usersAdded": 81, "usersExists": 3378, "usersDelete": 0, "errors": 0, "error": []}

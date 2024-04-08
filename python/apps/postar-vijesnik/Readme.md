@@ -1,0 +1,1 @@
+wget --http-user=ivan --http-passwd=ighMyDfBB3DdVb6YY6fX --no-check-certificate 'https://postar.podrug.net:10000/virtual-server/remote.cgi?program=list-users&domain=panem-nostrum.hr' -O panem-nostrum_hr

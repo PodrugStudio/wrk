@@ -1,0 +1,10 @@
+User                 Real name            Mail FTP        DBs  Quota          
+-------------------- -------------------- ---- ---------- ---- ---------------
+info                 Panem Nostrum        Yes  No         No   500 MB         
+luka                 Luka Prajo           Yes  No         No   500 MB         
+tomislav             Tomislav Prajo       Yes  No         No   2 GB           
+filip                Filip Vrli&#263;     Yes  No         No   500 MB         
+oko                  Knjigovodsto         Yes  No         No   500 MB         
+provjera             developer            Yes  No         No   50 MB          
+
+Exit status: 0
