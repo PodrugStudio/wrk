@@ -7,7 +7,7 @@ removeFilename="remove.csv"
 logPath='studenac_users/'
 
 authName='ivan'
-authPass='ighMyDfBB3DdVb6YY6fX'
+authPass='' # WARN AUTH PASS
 
 #USER_DEFAULT_QUOTA='3096'
 USER_DEFAULT_QUOTA='31000'
