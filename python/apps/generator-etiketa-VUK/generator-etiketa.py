@@ -1,7 +1,7 @@
 import csv
 from datetime import date
 
-order=["JA",2000,"06/2023",""]
+order=["VU",300,"06/2026",""]
 Etiketa_Total = order[1];
 KlijentID=order[0]
 sad = date.today()
@@ -23,10 +23,11 @@ def getLastPrintedNumber( newOrderID ):
 #load client data
 def loadClientData():
 	with open('klijenti.csv', 'rt') as f:
-	    reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_NONE)
-	    for row in reader:
-	        if (row[0] == KlijentID):
-	        	KlijentData = row
+		reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_NONE)
+		for row in reader:
+			if row[0] == KlijentID:
+				KlijentData = row
+				break
 	return KlijentData
 
 #create and write file

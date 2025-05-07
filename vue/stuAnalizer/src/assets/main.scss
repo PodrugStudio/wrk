@@ -1,0 +1,61 @@
+@use '@/assets/base.scss';
+
+#app {
+  // max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  grid-template-areas:
+    'header header'
+    'aside main';
+  gap: 1vmin;
+}
+header {
+  grid-area: header;
+}
+aside {
+  grid-area: aside;
+}
+main {
+  grid-area: main;
+}
+
+.box {
+  background-color: #ddd;
+}
+// section.main {
+//   display: grid;
+//   grid-template-columns: 4fr 8fr;
+//   padding: 2rem;
+//   gap: 1vmin;
+// }
+
+header {
+  border-bottom: 2px solid #e1e1e1;
+  margin-bottom: 8px;
+  padding: 0 0 4px;
+}
+main {
+  position: relative;
+  overflow-y: auto;
+  height: 90vh;
+}
